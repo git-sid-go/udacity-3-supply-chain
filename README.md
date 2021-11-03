@@ -32,6 +32,14 @@
 
 >
 
+## Transaction ID
+
+>
+
+    0x03e1c409bafa41143fd066ecb246dbec7842a9227bff70ca4210ce81578bda39
+
+>
+
 ## Requirement 1: Project write-up - UML
 
 ### Activity Diagram
@@ -52,7 +60,11 @@
 
 ## Requirement 2: Project write-up - Libraries
 
-The Roles library that was part of the starter was very useful in managing the different roles - Farmer, Distributor, Retailer, Consumer.
+The following libraries were used:
+
+- **truffle** _[5.0.21]_ - A development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM).
+- **web3.js** _[0.20.6]_ - A collection of libraries that allow you to interact with a local or remote ethereum node using HTTP, IPC or WebSocket.
+- The Roles library that was part of the starter was very useful in managing the different roles - Farmer, Distributor, Retailer, Consumer.
 
 ## Requirement 3: Project write-up - IPFS
 
